@@ -1,6 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a website 
-- 🌱 I’m currently learning HTML/CSS/JS
+- 🔭 My name is Allen Jace
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing musical instruments!
 
