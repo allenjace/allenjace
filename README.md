@@ -2,7 +2,7 @@
 - 🔭 My name is Allen Jace
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing musical instruments!
-
+- 📫 How to reach me: Discord/Email
 <!--
 **allenjace/allenjace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
