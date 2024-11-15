@@ -3,6 +3,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing musical instruments!
 - 📫 How to reach me: Discord/Email
+- [![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenjace)](https://github.com/allenjace/github-readme-stats)
+
 <!--
 **allenjace/allenjace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
